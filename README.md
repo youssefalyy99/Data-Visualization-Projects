@@ -47,30 +47,6 @@ Data-Analytics-Dashboards
 └── README.md
 ```
 
----
-
-# 📈 Dashboard Projects
-
-## 1. Sales Performance Dashboard
-
-**Tool:** Power BI
-
-**Purpose:**
-Analyze sales performance, revenue trends, product performance, and key business metrics.
-
-**Key Features:**
-- Revenue and profit KPIs
-- Sales trends over time
-- Product/category analysis
-- Interactive filtering
-- Business performance insights
-
----
-
-## 2. Excel Analytics Dashboards
-
-**Tool:** Microsoft Excel
-
 **Purpose:**
 Demonstrate reporting and analysis capabilities using Excel-based dashboards.
 
