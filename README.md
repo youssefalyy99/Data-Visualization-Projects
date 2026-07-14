@@ -1,74 +1,54 @@
 # 📊 Data Analytics Dashboards
 
-A collection of interactive data analytics dashboards built using **Power BI** and **Microsoft Excel**, showcasing data visualization, KPI tracking, reporting, and business insights.
+A collection of data analytics dashboards created to showcase dashboard design, data visualization, and business intelligence reporting.
 
-This repository serves as a portfolio of dashboard projects demonstrating skills in transforming raw data into meaningful insights through interactive reports and visual storytelling.
-
----
-
-## 🛠️ Tools & Technologies
-
-- **Power BI**
-  - Data Modeling
-  - DAX Measures
-  - Interactive Visualizations
-  - Dashboard Design
-
-- **Microsoft Excel**
-  - Pivot Tables
-  - Pivot Charts
-  - Data Cleaning
-  - Conditional Formatting
-  - KPI Reporting
-
-- **Data Analysis Concepts**
-  - Business Intelligence
-  - Data Visualization
-  - Performance Tracking
-  - Trend Analysis
+This repository contains different dashboard projects built to demonstrate skills in presenting data through interactive visuals, KPIs, and analytical reports.
 
 ---
 
-# 📂 Repository Structure
+## 📌 Dashboards Included
 
-```
-Data-Analytics-Dashboards
-│
-├── PowerBI
-│   ├── Sales Dashboard
-│   ├── Customer Analysis Dashboard
-│   └── Other Power BI Projects
-│
-├── Excel
-│   ├── Sales Reports
-│   ├── Financial Dashboards
-│   └── Other Excel Projects
-│
-└── README.md
-```
+This repository showcases dashboards covering different areas, including:
 
-**Purpose:**
-Demonstrate reporting and analysis capabilities using Excel-based dashboards.
-
-**Key Features:**
-- Pivot table analysis
-- Interactive charts
-- KPI summaries
-- Data visualization
-- Performance tracking
+- Sales Analysis
+- Customer Analytics
+- Financial Reporting
+- Business Performance Tracking
+- Other Data Visualization Projects
 
 ---
 
-# 🎯 Goals of This Repository
+## 🖼️ Dashboard Previews
 
-- Practice and improve dashboard development skills
-- Build experience in business intelligence reporting
-- Showcase data storytelling abilities
+Each dashboard folder contains:
+- Dashboard files
+- Preview images
+- Related project materials (if available)
 
+---
+
+## 🎯 Purpose
+
+The purpose of this repository is to showcase my ability to:
+
+- Design clear and interactive dashboards
+- Transform data into meaningful visual stories
+- Present business insights through effective reporting
+- Create professional data visualization solutions
+
+---
+
+## 🛠️ Tools Used
+
+- Power BI
+- Microsoft Excel
+- Other data visualization tools (when applicable)
+
+---
 
 ## 👤 Author
 
 **Youssef Aly**
 
 Computer & Communications Engineering Student  
-Aspiring Data Analyst | Power BI | Excel | SQL | Python
+Data Analytics Enthusiast | Power BI | Excel | SQL | Python
