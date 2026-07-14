@@ -6,7 +6,7 @@ This repository showcases a data analytics dashboard project designed to transfo
 
 The goal of this project is to demonstrate dashboard design skills, data visualization techniques, KPI creation, and the ability to communicate insights clearly using analytics tools.
 
-## Project Objectives
+## Repository Objectives
 
 * Build an interactive and visually appealing dashboard
 * Analyze key business metrics and trends
