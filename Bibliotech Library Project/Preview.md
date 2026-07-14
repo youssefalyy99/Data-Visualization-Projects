@@ -1,4 +1,4 @@
-# 📊 Dashboard Showcase
+# 📊 Bibliotech Library Project Showcase
 
 Welcome to my dashboard portfolio repository.
 This project showcases interactive dashboards built to transform data into clear and meaningful visual insights.
@@ -13,18 +13,19 @@ This project showcases interactive dashboards built to transform data into clear
 
 ### 📈 Sales Analysis Dashboard
 
-![Sales Dashboard](images/sales.png)
+![Dashboard Page 2](Dashboard%20Preview/Dashboard%20(JPG)/PowerBI%20Dash_page-0002.jpg)
 
 ---
 
 ### 👥 Customer Analysis Dashboard
 
-![Customer Dashboard](images/customer.png)
+![Dashboard Page 3](Dashboard%20Preview/Dashboard%20(JPG)/PowerBI%20Dash_page-0003.jpg)
 
 ---
 
 ### 🌍 Geographic Analysis Dashboard
 
-![Geographic Dashboard](images/geographic.png)
+![Dashboard Page 4](Dashboard%20Preview/Dashboard%20(JPG)/PowerBI%20Dash_page-0004.jpg)
 
 ---
+![Dashboard Page 5](Dashboard%20Preview/Dashboard%20(JPG)/PowerBI%20Dash_page-0005.jpg)
