@@ -7,7 +7,7 @@ This project showcases interactive dashboards built to transform data into clear
 
 ### 🏠 Leaderboard Dashboard
 
-![Dashboard Page 1](Dashboard%20Preview/Dashboard%20(JPG)/PowerBI%20Dash_page-0001.jpg)
+![Dashboard Page 1](
 
 ---
 
