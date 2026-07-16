@@ -1,0 +1,30 @@
+{
+  "name": "Futura Theme",
+  "textClasses": {
+    "title": { "fontFace": "Futura" },
+    "header": { "fontFace": "Futura" },
+    "callout": { "fontFace": "Futura" },
+    "label": { "fontFace": "Futura" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          { "fontFamily": "Futura" }
+        ],
+        "labels": [
+          { "fontFamily": "Futura" }
+        ],
+        "categoryLabels": [
+          { "fontFamily": "Futura" }
+        ],
+        "legend": [
+          {
+            "titleFontFamily": "Futura",
+            "fontFamily": "Futura"
+          }
+        ]
+      }
+    }
+  }
+}
