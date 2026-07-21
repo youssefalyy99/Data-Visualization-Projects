@@ -7,7 +7,7 @@ This project showcases interactive dashboards built to transform data into clear
 
 ### 🏠 Leaderboard Dashboard
 
-![fff](Nike%20Leaderboard%20Dashboard/Pictures/Display.png)
+![fff](Pictures/Display.png)
 
 ---
 
