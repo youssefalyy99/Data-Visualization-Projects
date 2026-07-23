@@ -7,6 +7,6 @@ This project showcases interactive dashboards built to transform data into clear
 
 ### 🏠 Leaderboard Dashboard
 
-![fff](Pictures/Display.png)
+![fff](Display/1.png)
 
 ---
