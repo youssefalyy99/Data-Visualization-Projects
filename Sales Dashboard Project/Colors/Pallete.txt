@@ -1,0 +1,4 @@
+Cards Backgrounds - 504D48
+Accent Bar - EB5E28
+Text - FFF8E1
+Background - 252422
