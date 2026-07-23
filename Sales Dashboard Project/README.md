@@ -1,4 +1,4 @@
-# 📊 Nike Leaderboard Project Showcase
+# 📊 Sales Project Showcase
 
 Welcome to my dashboard portfolio repository.
 This project showcases interactive dashboards built to transform data into clear and meaningful visual insights.
@@ -10,5 +10,3 @@ This project showcases interactive dashboards built to transform data into clear
 ![fff](Pictures/Display.png)
 
 ---
-
-### Copyright Notice: This project is a personal educational project. All Nike trademarks, logos, product images, and related intellectual property are owned by Nike, Inc. No copyright infringement is intended.
