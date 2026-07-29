@@ -7,7 +7,7 @@ This project showcases interactive dashboards built to transform data into clear
 
 ### 🏠 Landing Dashboard
 
-![fff](FIFA%20WORLD%20CUP%202026%20Dashboard/Dashboard%20Process/LandingFinal.png)
+![Landing](Dashboard%20Process/LandingFinal.png)
 
 ---
 
