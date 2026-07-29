@@ -13,19 +13,19 @@ This project showcases interactive dashboards built to transform data into clear
 
 ### 🏡 Overview Dashboard
 
-![fff2](Display/2.png)
+![fff2](Dashboard%20Process/OverviewFinal.png)
 
 ---
 
 ### 👨‍👩‍👧‍👦 Customer Analysis Dashboard
 
-![fff3](Display/3.png)
+![fff3](Dashboard%20Process/PlayerFinal.png)
 
 ---
 
 ### 🎁 Product Analysis Dashboard
 
-![fff4](Display/4.png)
+![fff4](Dashboard%20Process/TeamFinal.png)
 
 ---
 
