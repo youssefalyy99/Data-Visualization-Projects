@@ -1,0 +1,36 @@
+{
+  "name": "Fixture World Cup Theme (No Bold)",
+  "dataColors": [
+    "#8A1538",
+    "#00A3E0",
+    "#F4C542",
+    "#2E8B57",
+    "#E63946",
+    "#6C757D"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1F1F1F",
+  "tableAccent": "#8A1538",
+  "textClasses": {
+    "title": {
+      "fontFace": "Fixture Black",
+      "fontSize": 20,
+      "color": "#1F1F1F"
+    },
+    "header": {
+      "fontFace": "Fixture Black",
+      "fontSize": 14,
+      "color": "#1F1F1F"
+    },
+    "label": {
+      "fontFace": "Fixture Black",
+      "fontSize": 11,
+      "color": "#4A4A4A"
+    },
+    "callout": {
+      "fontFace": "Fixture Black",
+      "fontSize": 28,
+      "color": "#8A1538"
+    }
+  }
+}

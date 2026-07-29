@@ -1,0 +1,25 @@
+{
+  "name": "Fixture Theme",
+  "textClasses": {
+    "title": {
+      "fontFace": "Fixture Bold",
+      "fontSize": 18,
+      "color": "#000000"
+    },
+    "header": {
+      "fontFace": "Fixture Bold",
+      "fontSize": 14,
+      "color": "#000000"
+    },
+    "label": {
+      "fontFace": "Fixture Black",
+      "fontSize": 11,
+      "color": "#333333"
+    },
+    "callout": {
+      "fontFace": "Fixture Bold",
+      "fontSize": 28,
+      "color": "#000000"
+    }
+  }
+}
